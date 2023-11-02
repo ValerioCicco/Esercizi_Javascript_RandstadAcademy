@@ -16,6 +16,3 @@ document.addEventListener('DOMContentLoaded', function() {
         box.style.backgroundColor = 'green';
     });
 });
-
-//PER STAMPARE A CONSOLE UTILIZZIAMO "console.log("Funziona!")"
-console.log("Funziona!");

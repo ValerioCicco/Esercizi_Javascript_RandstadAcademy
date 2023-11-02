@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.b {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+#b1 {
+    background-color: red;
+}
+
+#b2 {
+    background-color: yellow;
+}
+
+#b3 {
+    background-color: green;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    border: 2px solid white;
+}

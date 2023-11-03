@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="success_assets/success.css">
+    <title>Success</title>
+</head>
+<body>
+    <nav class="navbar">
+        <ul class="nav-list">
+            <li><a href="#">Home</a></li>
+            <li><a href="#" id="linkDeposito">Deposito</a></li>
+            <li><a href="#" id="linkPrelievo">Prelievo</a></li>
+            <li><a href="../pin/index.html">Esci</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div>
+        <h2>SALDO ATTUALE</h2>
+        <br>
+        <input type="number" name="cifraAttuale" id="cifraAttuale">
+        </div>
+    </div>
+
+    <div class="container2">
+        <div>
+            <h2>INSERISCI LA CIFRA DA DEPOSITARE</h2>
+            <br>
+            <input type="number" name="cifraDaDepositare" id="cifraDaDepositare" placeholder="inserisci cifra">
+        </div>
+        <button id="calcoloTotaleDeposito">Deposita</button>
+    </div>
+    
+    <div class="container3">
+        <div>
+            <h2>INSERISCI LA CIFRA DA PRELEVARE</h2>
+            <br>
+            <input type="number" name="cifraDaPrelevare" id="cifraDaPrelevare" placeholder="inserisci cifra">
+        </div>
+        <button id="calcoloTotalePrelievo">Preleva</button>
+    </div>
+
+    <script src="success_assets/script.js"></script>
+</body>
+</html>

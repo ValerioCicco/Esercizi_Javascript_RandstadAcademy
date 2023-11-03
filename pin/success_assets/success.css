@@ -1,0 +1,74 @@
+/* QUI L'IMPORT DEL FONT GOOGLE (ROBOTO NEL MIO CASO) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,500&display=swap');
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #333; 
+    color: white; 
+    padding: 10px;
+}
+
+.nav-list {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.nav-list li {
+    font-family: 'Roboto', sans-serif;
+    margin-right: 20px; 
+}
+
+.nav-list a {
+    text-decoration: none; 
+    color: white;
+}
+
+.nav-list a:hover {
+    text-decoration: underline;
+}
+
+.nav-list li:last-child a {
+    background-color: #d9534f;
+    padding: 5px 10px; 
+    border-radius: 4px;
+}
+
+/*CONTAINER*/
+.container {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 300px;
+}
+/*CONTAINER2*/
+.container2 {
+    font-family: 'Roboto', sans-serif;
+    display: none;
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 300px;
+}
+/*CONTAINER3*/
+.container3 {
+    font-family: 'Roboto', sans-serif;
+    display: none;
+    justify-content: center;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 300px;
+}

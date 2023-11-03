@@ -26,6 +26,9 @@ Traccia: A partire da un array di stringhe, crea un secondo array formattando le
 Traccia: Gestire display delle navbar tramite media queries. Gestire visibilità menù da mobile tramite event listener.
 (Da fixare la posizione del bottone ma l'importante è il funzionamento dello script del file script.js)
 
+# FOLDER pin
+Traccia: Gestire l'inserimento di un pin, in caso il pin vada male passi a una pagina di errore, altrimenti passi a una pagina dove è presente un saldo attuale e con il saldo attuale puoi effettuare operazioni di deposito e prelievo in cui in base alle cifre inserite, il software ti restituisce il saldo attuale.
+
 # Folder ristorantino
 Traccia: esercizio nel quale abbiamo da inserire un codice sconto e il nome di un burger e inn base agli ingredienti aggiuntivi, i prezzo verrà modificato ogni qual volta aggiungiamo o rimuoviamo ingredienti e clicchiamo sul bottone "CALCOLA PREZZO"
 

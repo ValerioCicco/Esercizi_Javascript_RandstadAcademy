@@ -24,6 +24,7 @@ Traccia: A partire da un array di stringhe, crea un secondo array formattando le
 
 # FOLDER media_query
 Traccia: Gestire display delle navbar tramite media queries. Gestire visibilità menù da mobile tramite event listener.
+(Da fixare la posizione del bottone ma l'importante è il funzionamento dello script del file script.js)
 
 # FOLDER testEventListener
 Una cartella con un semplice test dell'addEventListener su un bottone.

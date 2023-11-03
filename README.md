@@ -22,5 +22,9 @@ Traccia: Creare un array composto da 10 automobili. Ogni OGGETTO automobile avr�
 # FOLDER blocco 5 
 Traccia: A partire da un array di stringhe, crea un secondo array formattando le stringhe del primo array in minuscolo e con l’iniziale maiuscola. Es: [‘pippo’, ‘PLUTO’, ‘Paperino’] => [‘Pippo’, ‘Pluto’, ‘Paperino’].
 
+# FOLDER media_query
+Traccia: Gestire display delle navbar tramite media queries. Gestire visibilità menù da mobile tramite event listener.
+(Da fixare la posizione del bottone ma l'importante è il funzionamento dello script del file script.js)
+
 # FOLDER testEventListener
 Una cartella con un semplice test dell'addEventListener su un bottone.

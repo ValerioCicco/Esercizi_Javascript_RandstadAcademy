@@ -1,0 +1,77 @@
+/* QUI L'IMPORT DEL FONT GOOGLE (ROBOTO NEL MIO CASO) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,500&display=swap');
+
+/* QUI IL CSS DELLA NAVBAR DESKTOP */
+.navbar-lg {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.navbar-lg ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+
+.navbar-lg li {
+    margin-right: 20px;
+}
+
+.navbar-lg a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+/* QUI IL CSS DELLA NAVBAR MOBILE */
+
+.navbar {
+    display: none;
+}
+
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li {
+    margin: 0 10px;
+}
+
+.nav-list a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+/* QUI LA MEDIA QUERY PER GESTIRE L'ENTRATA DELLA NAVBAR MOBILE */
+
+@media screen and (max-width: 1000px){
+    .navbar-lg {
+        display: none;
+    }
+    .navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #333;
+        color: #fff;
+        padding: 10px;
+    }
+}

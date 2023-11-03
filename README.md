@@ -26,5 +26,8 @@ Traccia: A partire da un array di stringhe, crea un secondo array formattando le
 Traccia: Gestire display delle navbar tramite media queries. Gestire visibilità menù da mobile tramite event listener.
 (Da fixare la posizione del bottone ma l'importante è il funzionamento dello script del file script.js)
 
+# Folder ristorantino
+Traccia: esercizio nel quale abbiamo da inserire un codice sconto e il nome di un burger e inn base agli ingredienti aggiuntivi, i prezzo verrà modificato ogni qual volta aggiungiamo o rimuoviamo ingredienti e clicchiamo sul bottone "CALCOLA PREZZO"
+
 # FOLDER testEventListener
 Una cartella con un semplice test dell'addEventListener su un bottone.

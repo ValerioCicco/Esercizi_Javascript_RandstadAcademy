@@ -30,7 +30,7 @@ Traccia: Gestire display delle navbar tramite media queries. Gestire visibilità
 Traccia: Gestire l'inserimento di un pin, in caso il pin vada male passi a una pagina di errore, altrimenti passi a una pagina dove è presente un saldo attuale e con il saldo attuale puoi effettuare operazioni di deposito e prelievo in cui in base alle cifre inserite, il software ti restituisce il saldo attuale.
 
 # Folder ristorantino
-Traccia: esercizio nel quale abbiamo da inserire un codice sconto e il nome di un burger e inn base agli ingredienti aggiuntivi, i prezzo verrà modificato ogni qual volta aggiungiamo o rimuoviamo ingredienti e clicchiamo sul bottone "CALCOLA PREZZO"
+Traccia: esercizio nel quale abbiamo da inserire un codice sconto e il nome di un burger e in base agli ingredienti aggiuntivi, il prezzo verrà modificato ogni qual volta aggiungiamo o rimuoviamo ingredienti e clicchiamo sul bottone "CALCOLA PREZZO"
 
 # FOLDER testEventListener
 Una cartella con un semplice test dell'addEventListener su un bottone.
